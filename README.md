@@ -41,9 +41,3 @@ Python
 Pandas, NumPy
 Scikit-learn
 Matplotlib, Seaborn
-
-🛠️ Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
