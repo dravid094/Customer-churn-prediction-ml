@@ -9,7 +9,7 @@ The goal is to help businesses identify at-risk customers and take preventive ac
 
 📊 Model Performance:-
 
-Accuracy: 0.74
+~Accuracy: 0.74
 
 Sensitivity (Recall): 0.71
 
